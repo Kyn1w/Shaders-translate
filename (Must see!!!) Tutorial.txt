@@ -9,7 +9,7 @@ Start teaching.
   Drag in the lang file of the shader file you want to use
   Save and use the corresponding national language in the game
  （ For example if you want to use Spanish in Spain You should download the es_es file）
-
+  Corresponding language view address：https://minecraft-archive.fandom.com/wiki/Languages
 
 
 2023.2.14   By _Kyn1w (Chinese)
