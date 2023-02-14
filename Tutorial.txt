@@ -1,0 +1,15 @@
+(MUST SEE!!!) If you need to use my light and shadow translation document, please watch this document carefully.
+Start teaching.
+1.Preparation.
+  A computer
+  The shader file you want to use (zip)
+2.Operation steps.
+  Download the corresponding txt file and Open the shader file you want to use
+  Change txt to lang
+  Drag in the lang file of the shader file you want to use
+  Save and use the corresponding national language in the game
+ （ For example if you want to use Spanish in Spain You should download the es_es file）
+
+
+
+2023.2.14   By _Kyn1w (Chinese)
